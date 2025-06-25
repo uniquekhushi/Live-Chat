@@ -1,5 +1,4 @@
-
-                                                                             # 💬 Live Chat Application
+# 💬 Live Chat Application
 
 A real-time web-based chat application that allows users to communicate instantly in a simple and intuitive interface. This project supports both one-on-one and group messaging, providing a smooth and responsive chat experience.
 
